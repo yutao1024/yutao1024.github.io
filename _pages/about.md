@@ -39,8 +39,8 @@ My research interests cover Multimodal Large Language Models.
 </div>
 </div>
 ## Others
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
+- **NeurIPS 2024**, [Autodroid: Llm-powered task automation in android](https://arxiv.org/abs/2308.15272)
+- **Mobicom 2024**, [VLKEB: A Large Vision-Language Model Knowledge Editing Benchmark]([https://arxiv.org/abs/2308.15272](https://arxiv.org/abs/2403.07350))
 # 🎖 Honors and Awards
 - *2024.10* National Scholarship.（0.7%）
 - *2022.10* National Scholarship.（0.4%）
