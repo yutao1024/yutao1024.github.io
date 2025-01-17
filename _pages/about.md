@@ -44,6 +44,7 @@ My research interests cover Multimodal Large Language Models.
 # 🎖 Honors and Awards
 - *2024.10* National Scholarship。（0.7%）
 - *2022.10* National Scholarship.（0.4%）
+
 # 📖 Educations
 - *2025.09 - Current*, Ph.D. Student in Pattern Recognition (Institute of Automation, Chinese Academy of Sciences).
 - *2020.09 - 2025.06*, Bachelor in Computer Science (School of Computer Science and Technology, Harbin Institute of Technology)
