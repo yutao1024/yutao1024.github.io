@@ -48,9 +48,5 @@ My research interests cover Multimodal Large Language Models.
 - *2025.09 - Current*, Ph.D. Student in Pattern Recognition (Institute of Automation, Chinese Academy of Sciences).
 - *2020.09 - 2025.06*, Bachelor in Computer Science (School of Computer Science and Technology, Harbin Institute of Technology)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.01 - Current*, Kuaishou, Multimodal Understanding and Application Group, China.
