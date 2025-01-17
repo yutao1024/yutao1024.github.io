@@ -42,11 +42,11 @@ My research interests cover Multimodal Large Language Models.
 - **NeurIPS 2024**, [Autodroid: Llm-powered task automation in android](https://arxiv.org/abs/2308.15272)
 - **Mobicom 2024**, [VLKEB: A Large Vision-Language Model Knowledge Editing Benchmark]([https://arxiv.org/abs/2308.15272](https://arxiv.org/abs/2403.07350))
 # 🎖 Honors and Awards
-- *2024.10* National Scholarship.（0.7%）
-- *2022.10* National Scholarship.（0.4%）
+- *2024.10*, National Scholarship.（0.7%）
+- *2022.10*, National Scholarship.（0.4%）
 
 # 📖 Educations
-- *2025.09 - Current*, Ph.D. Student in Pattern Recognition (Institute of Automation, Chinese Academy of Sciences).
+- *2025.09 - Current*, Ph.D. Student in Pattern Recognition and Intelligent Systems (Institute of Automation, Chinese Academy of Sciences)
 - *2020.09 - 2025.06*, Bachelor in Computer Science (School of Computer Science and Technology, Harbin Institute of Technology)
 
 # 💻 Internships
