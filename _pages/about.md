@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a Ph.D. student at the State Key Laboratory of Pattern Recognition, the University of Chinese Academy of Sciences, advised by Prof. [Yan Huang](https://yanrockhuang.github.io/). I strongly believe in the power of interdisciplinary collaboration and the potential it holds for driving impactful research outcomes. If you are interested in partnering on research projects, offering internship opportunities or exchange programs, I would be thrilled to connect with you.
+I’m a Ph.D. student at [the New Laboratory of Pattern Recognition(NLPR), the University of Chinese Academy of Sciences](http://www.cripac.ia.ac.cn/CN/model/index.htm), advised by Prof. [Yan Huang](https://yanrockhuang.github.io/). I strongly believe in the power of interdisciplinary collaboration and the potential it holds for driving impactful research outcomes. If you are interested in partnering on research projects, offering internship opportunities or exchange programs, I would be thrilled to connect with you.
 
 My research interests cover Multimodal Large Language Models.
 
