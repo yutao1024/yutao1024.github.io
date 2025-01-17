@@ -39,9 +39,9 @@ My research interests cover Multimodal Large Language Models.
 </div>
 </div>
 ## Others
-- **NeurIPS 2024**, [VLKEB: A Large Vision-Language Model Knowledge Editing Benchmark](https://arxiv.org/abs/2403.07350)
+- **NeurIPS 2024**, [VLKEB: A Large Vision-Language Model Knowledge Editing Benchmark](https://arxiv.org/abs/2403.07350)       
 Han Huang, Haitian Zhong, **Tao Yu**, Qiang Liu, Shu Wu, Liang Wang, Tieniu Tan
-- **Mobicom 2024**, [Autodroid: Llm-powered task automation in android](https://arxiv.org/abs/2308.15272)
+- **Mobicom 2024**, [Autodroid: Llm-powered task automation in android](https://arxiv.org/abs/2308.15272)        
 Hao Wen, Yuanchun Li, Guohong Liu, Shanhui Zhao, **Tao Yu**, Toby Jia-Jun Li, Shiqi Jiang, Yunhao Liu, Yaqin Zhang, Yunxin Liu
 
 # 🎖 Honors and Awards
