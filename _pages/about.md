@@ -45,8 +45,8 @@ Han Huang, Haitian Zhong, **Tao Yu**, Qiang Liu, Shu Wu, Liang Wang, Tieniu Tan
 Hao Wen, Yuanchun Li, Guohong Liu, Shanhui Zhao, **Tao Yu**, Toby Jia-Jun Li, Shiqi Jiang, Yunhao Liu, Yaqin Zhang, Yunxin Liu
 
 # 🎖 Honors and Awards
-- *2024.10*, National Scholarship.（0.7%）
-- *2022.10*, National Scholarship.（0.4%）
+- *2024.10*, National Scholarship.(0.7%)
+- *2022.10*, National Scholarship.(0.4%)
 
 # 📖 Educations
 - *2025.09 - Current*, Ph.D. Student in Pattern Recognition and Intelligent Systems (Institute of Automation, Chinese Academy of Sciences)
