@@ -42,7 +42,7 @@ My research interests cover Multimodal Large Language Models.
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2024.10* National Scholarship。（0.7%）
+- *2024.10* National Scholarship.（0.7%）
 - *2022.10* National Scholarship.（0.4%）
 
 # 📖 Educations
