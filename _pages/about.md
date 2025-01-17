@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a Ph.D. student at [the New Laboratory of Pattern Recognition(NLPR)](http://www.cripac.ia.ac.cn/CN/model/index.htm), the University of Chinese Academy of Sciences, advised by Prof. [Yan Huang](https://yanrockhuang.github.io/). I strongly believe in the power of interdisciplinary collaboration and the potential it holds for driving impactful research outcomes. If you are interested in partnering on research projects, offering internship opportunities or exchange programs, I would be thrilled to connect with you.
+I’m a Ph.D. student at [New Laboratory of Pattern Recognition(NLPR)](http://www.cripac.ia.ac.cn/CN/model/index.htm), the University of Chinese Academy of Sciences, advised by Prof. [Yan Huang](https://yanrockhuang.github.io/). I strongly believe in the power of interdisciplinary collaboration and the potential it holds for driving impactful research outcomes. If you are interested in partnering on research projects, offering internship opportunities or exchange programs, I would be thrilled to connect with you.
 
 My research interests cover Multimodal Large Language Models.
 
@@ -54,4 +54,5 @@ Hao Wen, Yuanchun Li, Guohong Liu, Shanhui Zhao, **Tao Yu**, Toby Jia-Jun Li, Sh
 
 # 💻 Internships
 - *2025.01 - Current*, Multimodal Understanding and Application Group, Kuaishou, China.
+- *2024.03 - 2024.06*, New Laboratory of Pattern Recognition(NLPR), Institute of Automation, China.
 - *2023.05 - 2024.07*, Institute for AI Industry Research(AIR), Tsinghua University, China.
