@@ -50,7 +50,7 @@ Hao Wen, Yuanchun Li, Guohong Liu, Shanhui Zhao, **Tao Yu**, Toby Jia-Jun Li, Sh
 
 # 📖 Educations
 - *2025.09 - Current*, Ph.D. Student in Pattern Recognition and Intelligent Systems (Institute of Automation, Chinese Academy of Sciences)
-- *2020.09 - 2025.06*, Bachelor in Computer Science (School of Computer Science and Technology, Harbin Institute of Technology)
+- *2020.09 - 2025.06*, Bachelor in Computer Science and Technology (School of Computer Science and Technology, Harbin Institute of Technology)
 
 # 💻 Internships
 - *2025.01 - Current*, Kuaishou, Multimodal Understanding and Application Group, China.
