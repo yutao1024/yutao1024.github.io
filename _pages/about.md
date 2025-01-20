@@ -53,6 +53,6 @@ Hao Wen, Yuanchun Li, Guohong Liu, Shanhui Zhao, **Tao Yu**, Toby Jia-Jun Li, Sh
 - *2020.09 - 2025.06*, Bachelor in Computer Science and Technology (School of Computer Science and Technology, Harbin Institute of Technology)
 
 # 💻 Internships
-- *2025.01 - Current*, Multimodal Understanding and Application Group, Kuaishou, China.
+- *2025.01 - Current*, Multimodal Understanding and Application Group, Kuaishou Technology, China.
 - *2024.03 - 2024.06*, New Laboratory of Pattern Recognition(NLPR), Institute of Automation, China.
 - *2023.05 - 2024.07*, Institute for AI Industry Research(AIR), Tsinghua University, China.
