@@ -22,6 +22,7 @@ I’m a Ph.D. student at [New Laboratory of Pattern Recognition(NLPR)](http://ww
 My research interests cover Multimodal Large Language Models.
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 One paper on GUI Agent was accepted by CVPR 2025!
 - *2024.06*: &nbsp;🎉🎉 One paper on Knowledge Editing Benchmark was accepted by NeurIPS 2024 Datasets and Benchmarks Track!
 - *2023.08*: &nbsp;🎉🎉 One paper on Mobile Agent was accepted by Mobicom 2024 Summer Round!
 
@@ -39,6 +40,8 @@ My research interests cover Multimodal Large Language Models.
 </div>
 </div>
 ## Others
+- **CVPR 2025**, [GUI-Xplore: Empowering Generalizable GUI Agents with One Exploration](https://openreview.net/forum?id=dGiESWVpER&referrer=%5Bthe%20profile%20of%20Tao%20Yu%5D(%2Fprofile%3Fid%3D~Tao_Yu15))       
+Yuchen Sun, Shanhui Zhao, **Tao Yu**, Hao Wen, Samith Va, Mengwei Xu, Yuanchun Li, Chongyang Zhang
 - **NeurIPS 2024**, [VLKEB: A Large Vision-Language Model Knowledge Editing Benchmark](https://arxiv.org/abs/2403.07350)       
 Han Huang, Haitian Zhong, **Tao Yu**, Qiang Liu, Shu Wu, Liang Wang, Tieniu Tan
 - **Mobicom 2024**, [Autodroid: Llm-powered task automation in android](https://arxiv.org/abs/2308.15272)        
