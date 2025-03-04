@@ -42,9 +42,9 @@ My research interests cover Multimodal Large Language Models.
 ## Others
 - **CVPR 2025**, [GUI-Xplore: Empowering Generalizable GUI Agents with One Exploration](https://openreview.net/forum?id=dGiESWVpER&referrer=%5Bthe%20profile%20of%20Tao%20Yu%5D(%2Fprofile%3Fid%3D~Tao_Yu15))       
 Yuchen Sun, Shanhui Zhao, **Tao Yu**, Hao Wen, Samith Va, Mengwei Xu, Yuanchun Li, Chongyang Zhang
-- **NeurIPS 2024**, [VLKEB: A Large Vision-Language Model Knowledge Editing Benchmark](https://arxiv.org/abs/2403.07350)       
+- ![GitHub Repo stars](https://img.shields.io/github/stars/VLKEB/VLKEB?style=social) <br> **NeurIPS 2024**, [VLKEB: A Large Vision-Language Model Knowledge Editing Benchmark](https://arxiv.org/abs/2403.07350)       
 Han Huang, Haitian Zhong, **Tao Yu**, Qiang Liu, Shu Wu, Liang Wang, Tieniu Tan
-- ![GitHub Repo stars](https://img.shields.io/github/stars/MobileLLM/AutoDroid?style=social) <br> **Mobicom 2024**, [Autodroid: Llm-powered task automation in android](https://arxiv.org/abs/2308.15272)        
+- ![GitHub Repo stars](https://img.shields.io/github/stars/MobileLLM/AutoDroid?style=social) **Mobicom 2024**, [Autodroid: Llm-powered task automation in android](https://arxiv.org/abs/2308.15272)        
 Hao Wen, Yuanchun Li, Guohong Liu, Shanhui Zhao, **Tao Yu**, Toby Jia-Jun Li, Shiqi Jiang, Yunhao Liu, Yaqin Zhang, Yunxin Liu
 
 # 🎖 Honors and Awards
