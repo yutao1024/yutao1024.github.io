@@ -28,14 +28,14 @@ My research interests cover Multimodal Large Language Models.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/Aligning Multimodal LLM with Human Preference.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Aligning Multimodal LLM with Human Preference: A Survey](https://arxiv.org/abs/2503.14504)
 
 **Tao Yu**, Yi-Fan Zhang, Chaoyou Fu, Junkang Wu, Jinda Lu, Kun Wang, Xingyu Lu, Yunhang Shen, Guibin Zhang, Dingjie Song, Yibo Yan, Tianlong Xu, Qingsong Wen, Zhang Zhang, Yan Huang, Liang Wang, Tieniu Tan
 
-[**Project**](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+![GitHub Repo stars](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models?style=social)[**Project**](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 </div>
 </div>
