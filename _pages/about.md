@@ -35,7 +35,7 @@ My research interests cover Multimodal Large Language Models.
 
 **Tao Yu**, Yi-Fan Zhang, Chaoyou Fu, Junkang Wu, Jinda Lu, Kun Wang, Xingyu Lu, Yunhang Shen, Guibin Zhang, Dingjie Song, Yibo Yan, Tianlong Xu, Qingsong Wen, Zhang Zhang, Yan Huang, Liang Wang, Tieniu Tan
 
-![GitHub Repo stars](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models?style=social)[**Project**](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+![GitHub Repo stars](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models?style=social) <br> [**Project**](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment)
 
 </div>
 </div>
