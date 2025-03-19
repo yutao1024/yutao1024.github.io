@@ -28,17 +28,18 @@ My research interests cover Multimodal Large Language Models.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Aligning Multimodal LLM with Human Preference: A Survey](https://arxiv.org/abs/2503.14504)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Tao Yu**, Yi-Fan Zhang, Chaoyou Fu, Junkang Wu, Jinda Lu, Kun Wang, Xingyu Lu, Yunhang Shen, Guibin Zhang, Dingjie Song, Yibo Yan, Tianlong Xu, Qingsong Wen, Zhang Zhang, Yan Huang, Liang Wang, Tieniu Tan
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 </div>
 </div>
+
 ## Others
 - **CVPR 2025**, [GUI-Xplore: Empowering Generalizable GUI Agents with One Exploration](https://openreview.net/forum?id=dGiESWVpER&referrer=%5Bthe%20profile%20of%20Tao%20Yu%5D(%2Fprofile%3Fid%3D~Tao_Yu15))       
 Yuchen Sun, Shanhui Zhao, **Tao Yu**, Hao Wen, Samith Va, Mengwei Xu, Yuanchun Li, Chongyang Zhang
