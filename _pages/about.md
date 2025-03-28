@@ -41,7 +41,7 @@ My research interests cover Multimodal Large Language Models.
 </div>
 
 ## Others
-- ![GitHub Repo stars](https://img.shields.io/github/stars/921112343/GUI-Xplore?style=social) <br> **CVPR 2025**, [GUI-Xplore: Empowering Generalizable GUI Agents with One Exploration](https://arxiv.org/abs/2503.17709))       
+- ![GitHub Repo stars](https://img.shields.io/github/stars/921112343/GUI-Xplore?style=social) <br> **CVPR 2025**, [GUI-Xplore: Empowering Generalizable GUI Agents with One Exploration](https://arxiv.org/abs/2503.17709)       
 Yuchen Sun, Shanhui Zhao, **Tao Yu**, Hao Wen, Samith Va, Mengwei Xu, Yuanchun Li, Chongyang Zhang
 - ![GitHub Repo stars](https://img.shields.io/github/stars/VLKEB/VLKEB?style=social) <br> **NeurIPS 2024**, [VLKEB: A Large Vision-Language Model Knowledge Editing Benchmark](https://arxiv.org/abs/2403.07350)       
 Han Huang, Haitian Zhong, **Tao Yu**, Qiang Liu, Shu Wu, Liang Wang, Tieniu Tan
