@@ -41,7 +41,7 @@ My research interests cover Multimodal Large Language Models.
 </div>
 
 ## Others
-- **CVPR 2025**, [GUI-Xplore: Empowering Generalizable GUI Agents with One Exploration](https://openreview.net/forum?id=dGiESWVpER&referrer=%5Bthe%20profile%20of%20Tao%20Yu%5D(%2Fprofile%3Fid%3D~Tao_Yu15))       
+- ![GitHub Repo stars](https://github.com/921112343/GUI-Xplore) <br> **CVPR 2025**, [GUI-Xplore: Empowering Generalizable GUI Agents with One Exploration](https://arxiv.org/abs/2503.17709))       
 Yuchen Sun, Shanhui Zhao, **Tao Yu**, Hao Wen, Samith Va, Mengwei Xu, Yuanchun Li, Chongyang Zhang
 - ![GitHub Repo stars](https://img.shields.io/github/stars/VLKEB/VLKEB?style=social) <br> **NeurIPS 2024**, [VLKEB: A Large Vision-Language Model Knowledge Editing Benchmark](https://arxiv.org/abs/2403.07350)       
 Han Huang, Haitian Zhong, **Tao Yu**, Qiang Liu, Shu Wu, Liang Wang, Tieniu Tan
