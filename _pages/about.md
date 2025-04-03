@@ -52,8 +52,8 @@ Han Huang, Haitian Zhong, **Tao Yu**, Qiang Liu, Shu Wu, Liang Wang, Tieniu Tan
 Hao Wen, Yuanchun Li, Guohong Liu, Shanhui Zhao, **Tao Yu**, Toby Jia-Jun Li, Shiqi Jiang, Yunhao Liu, Yaqin Zhang, Yunxin Liu
 
 # 🎖 Honors and Awards
-- *2024.12*, National Scholarship.(**0.7%**)
-- *2023.12*, National Encouragement Scholarship.(**0.7%**)
+- *2024.12*, National Scholarship.(**0.4%**)
+- *2023.12*, National Encouragement Scholarship.(**0.4%**)
 - *2022.12*, National Scholarship.(**0.4%**)
 - *2022.06*, First Grade Scholarship.(**0.4%**)
 
