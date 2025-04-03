@@ -59,8 +59,7 @@ Hao Wen, Yuanchun Li, Guohong Liu, Shanhui Zhao, **Tao Yu**, Toby Jia-Jun Li, Sh
 
 # 📖 Educations
 - *2025.09 - Current*, Ph.D. Student in Pattern Recognition and Intelligent Systems (Institute of Automation, Chinese Academy of Sciences)
-- *2021.09 - 2025.06*, Bachelor in Computer Science and Technology (School of Computer Science and Technology, Harbin Institute of Technology)    
-  GPA: 93.79/100 (Ranking: 2/135)
+- *2021.09 - 2025.06*, Bachelor in Computer Science and Technology (School of Computer Science and Technology, Harbin Institute of Technology), GPA: 93.79/100 (Ranking: 2/135)
 
 # 💻 Internships
 - *2025.01 - Current*, Multimodal Understanding and Application Group, Kuaishou Technology, China.
