@@ -22,6 +22,7 @@ I’m a Ph.D. student at [New Laboratory of Pattern Recognition(NLPR)](http://ww
 My research interests cover Multimodal Large Language Models.
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 One technical report on MLLM was submitted on arXiv!
 - *2025.05*: &nbsp;🎉🎉 One paper on DPO (Direct Preference Optimization) was accepted by ICML 2025!
 - *2025.02*: &nbsp;🎉🎉 One paper on GUI Agent was accepted by CVPR 2025!
 - *2024.06*: &nbsp;🎉🎉 One paper on Knowledge Editing Benchmark was accepted by NeurIPS 2024 Datasets and Benchmarks Track!
@@ -43,6 +44,8 @@ My research interests cover Multimodal Large Language Models.
 
 ## Others
 
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Kwai-Keye/Keye?style=social) <br> **arXiv**, [Kwai Keye-VL Technical Report](https://arxiv.org/abs/2507.01949)
+Kwai Keye Team
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Kwai-YuanQi/MM-RLHF?style=social) <br> **ICML 2025**, [MM-RLHF: The Next Step Forward in Multimodal LLM Alignment](https://arxiv.org/abs/2502.10391)      
 Yi-Fan Zhang, **Tao Yu**, Haochen Tian, Chaoyou Fu, Peiyan Li, Jianshu Zeng, Wulin Xie, Yang Shi, Huanyu Zhang, Junkang Wu, Xue Wang, Yibo Hu, Bin Wen, Fan Yang, Zhang Zhang, Tingting Gao, Di Zhang, Liang Wang, Rong Jin, Tieniu Tan
 - ![GitHub Repo stars](https://img.shields.io/github/stars/921112343/GUI-Xplore?style=social) <br> **CVPR 2025**, [GUI-Xplore: Empowering Generalizable GUI Agents with One Exploration](https://arxiv.org/abs/2503.17709)       
