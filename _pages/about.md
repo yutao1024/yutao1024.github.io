@@ -22,7 +22,7 @@ I’m a Ph.D. student at [New Laboratory of Pattern Recognition(NLPR)](http://ww
 My research interests cover Multimodal Large Language Models.
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 One technical report on MLLM was released!
+- *2025.07*: &nbsp;🎉🎉 One technical report on Kwai Keye-VL was released!
 - *2025.05*: &nbsp;🎉🎉 One paper on DPO (Direct Preference Optimization) was accepted by ICML 2025!
 - *2025.02*: &nbsp;🎉🎉 One paper on GUI Agent was accepted by CVPR 2025!
 - *2024.06*: &nbsp;🎉🎉 One paper on Knowledge Editing Benchmark was accepted by NeurIPS 2024 Datasets and Benchmarks Track!
