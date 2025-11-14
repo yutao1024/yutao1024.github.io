@@ -22,6 +22,7 @@ I’m a Ph.D. student at [New Laboratory of Pattern Recognition(NLPR)](http://ww
 My research interests cover Multimodal Large Language Models.
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 Two papers was accepted by AAAI 2025!
 - *2025.07*: &nbsp;🎉🎉 One technical report on Kwai Keye-VL was released!
 - *2025.05*: &nbsp;🎉🎉 One paper on DPO (Direct Preference Optimization) was accepted by ICML 2025!
 - *2025.02*: &nbsp;🎉🎉 One paper on GUI Agent was accepted by CVPR 2025!
@@ -43,6 +44,10 @@ My research interests cover Multimodal Large Language Models.
 </div>
 
 ## Others
+
+- ![GitHub Repo stars]() <br> **Technical Report**, [Improving Deepfake Detection with Reinforcement Learning-Based Adaptive Data Augmentation
+](https://arxiv.org/abs/2511.07051)      
+Yuxuan Zhou, **Tao Yu**, Wen Huang, Yuheng Zhang, Tao Dai, Shu-Tao Xia
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Kwai-Keye/Keye?style=social) <br> **Technical Report**, [Kwai Keye-VL Technical Report](https://arxiv.org/abs/2507.01949)      
 Kwai Keye Team
