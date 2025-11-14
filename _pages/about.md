@@ -22,7 +22,7 @@ I’m a Ph.D. student at [New Laboratory of Pattern Recognition(NLPR)](http://ww
 My research interests cover Multimodal Large Language Models.
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 Two papers was accepted by AAAI 2025!
+- *2025.11*: &nbsp;🎉🎉 Two papers on Multi-View Clustering and Deepfake was accepted by AAAI 2026!
 - *2025.07*: &nbsp;🎉🎉 One technical report on Kwai Keye-VL was released!
 - *2025.05*: &nbsp;🎉🎉 One paper on DPO (Direct Preference Optimization) was accepted by ICML 2025!
 - *2025.02*: &nbsp;🎉🎉 One paper on GUI Agent was accepted by CVPR 2025!
@@ -45,9 +45,11 @@ My research interests cover Multimodal Large Language Models.
 
 ## Others
 
-- **AAAI 2025**, [Improving Deepfake Detection with Reinforcement Learning-Based Adaptive Data Augmentation
-](https://arxiv.org/abs/2511.07051)      
+- **AAAI 2026**, [Improving Deepfake Detection with Reinforcement Learning-Based Adaptive Data Augmentation](https://arxiv.org/abs/2511.07051)      
 Yuxuan Zhou, **Tao Yu**, Wen Huang, Yuheng Zhang, Tao Dai, Shu-Tao Xia
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/PaddiHunter/DGIMVCM?style=social) <br> **AAAI 2026**, [Dynamic Deep Graph Learning for Incomplete Multi-View Clustering with Masked Graph Reconstruction Loss]    
+Zhenghao Zhang, Jun Xie, Xingchen Chen, **Tao Yu**, Hongzhu Yi, Kaixin Xu, Yuanxiang Wang, Tianyu Zong, Xinming Wang, Jiahuan Chen, Guoqing Chao, Feng Chen, Zhepeng Wang, Jungang Xu
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Kwai-Keye/Keye?style=social) <br> **Technical Report**, [Kwai Keye-VL Technical Report](https://arxiv.org/abs/2507.01949)      
 Kwai Keye Team
