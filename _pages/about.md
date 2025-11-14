@@ -45,7 +45,7 @@ My research interests cover Multimodal Large Language Models.
 
 ## Others
 
-- **AAAI 2026**, [Improving Deepfake Detection with Reinforcement Learning-Based Adaptive Data Augmentation](https://arxiv.org/abs/2511.07051)      
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Yuxuan2003/CRDA?style=social) <br> **AAAI 2026**, [Improving Deepfake Detection with Reinforcement Learning-Based Adaptive Data Augmentation](https://arxiv.org/abs/2511.07051)      
 Yuxuan Zhou, **Tao Yu**, Wen Huang, Yuheng Zhang, Tao Dai, Shu-Tao Xia
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/PaddiHunter/DGIMVCM?style=social) <br> **AAAI 2026**, [Dynamic Deep Graph Learning for Incomplete Multi-View Clustering with Masked Graph Reconstruction Loss]    
