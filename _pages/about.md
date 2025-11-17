@@ -48,7 +48,7 @@ My research interests cover Multimodal Large Language Models.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Yuxuan2003/CRDA?style=social) <br> **AAAI 2026**, [Improving Deepfake Detection with Reinforcement Learning-Based Adaptive Data Augmentation](https://arxiv.org/abs/2511.07051)      
 Yuxuan Zhou, **Tao Yu**, Wen Huang, Yuheng Zhang, Tao Dai, Shu-Tao Xia
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/PaddiHunter/DGIMVCM?style=social) <br> **AAAI 2026**, [Dynamic Deep Graph Learning for Incomplete Multi-View Clustering with Masked Graph Reconstruction Loss]    
+- ![GitHub Repo stars](https://img.shields.io/github/stars/PaddiHunter/DGIMVCM?style=social) <br> **AAAI 2026**, [Dynamic Deep Graph Learning for Incomplete Multi-View Clustering with Masked Graph Reconstruction Loss](https://arxiv.org/abs/2511.11181)    
 Zhenghao Zhang, Jun Xie, Xingchen Chen, **Tao Yu**, Hongzhu Yi, Kaixin Xu, Yuanxiang Wang, Tianyu Zong, Xinming Wang, Jiahuan Chen, Guoqing Chao, Feng Chen, Zhepeng Wang, Jungang Xu
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Kwai-Keye/Keye?style=social) <br> **Technical Report**, [Kwai Keye-VL Technical Report](https://arxiv.org/abs/2507.01949)      
