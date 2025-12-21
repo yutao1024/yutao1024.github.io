@@ -31,6 +31,18 @@ My research interests cover Multimodal Large Language Models.
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/Browseragent.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[BrowserAgent: Building Web Agents with Human-Inspired Web Browsing Actions](https://arxiv.org/abs/2510.10666)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/TIGER-AI-Lab/BrowserAgent?style=social) &nbsp; [**Project**](https://github.com/TIGER-AI-Lab/BrowserAgent)
+
+**Tao Yu**, Zhengbo Zhang, Zhiheng Lyu, Junhao Gong, Hongzhu Yi, Xinming Wang, Yuxuan Zhou, Jiabing Yang, Ping Nie, Yan Huang, Wenhu Chen
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/Aligning Multimodal LLM with Human Preference.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
