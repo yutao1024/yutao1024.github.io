@@ -22,6 +22,7 @@ I’m a Ph.D. student at [New Laboratory of Pattern Recognition(NLPR)](http://ww
 My research interests cover Multimodal Large Language Models.
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One paper on Browser Agent were accepted by TMLR!
 - *2025.11*: &nbsp;🎉🎉 Two papers on Multi-View Clustering and Deepfake were accepted by AAAI 2026!
 - *2025.07*: &nbsp;🎉🎉 One technical report on Kwai Keye-VL was released!
 - *2025.05*: &nbsp;🎉🎉 One paper on DPO (Direct Preference Optimization) was accepted by ICML 2025!
@@ -31,7 +32,7 @@ My research interests cover Multimodal Large Language Models.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/Browseragent.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR</div><img src='images/Browseragent.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [BrowserAgent: Building Web Agents with Human-Inspired Web Browsing Actions](https://arxiv.org/abs/2510.10666)
