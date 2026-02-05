@@ -32,6 +32,30 @@ My research interests cover Multimodal Large Language Models.
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/PaperX.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PaperX: A Unified Framework for Multimodal Academic Presentation Generation with Scholar DAG](https://arxiv.org/abs/2602.03866)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/yutao1024/PaperX?style=social) &nbsp; [**Project**](https://github.com/yutao1024/PaperX)
+
+**Tao Yu**, Minghui Zhang, Zhiqing Cui, Hao Wang, Zhongtian Luo, Shenghua Chai, Junhao Gong, Yuzhao Peng, Yuxuan Zhou, Yujia Yang, Zhenghao Zhang, Haopeng Jin, Xinming Wang, Yufei Xiong, Jiabing Yang, Jiahao Yuan, Hanqing Wang, Hongzhu Yi, YiFan Zhang, Yan Huang, Liang Wang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ShotFinder.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search](https://arxiv.org/abs/2601.23232)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/yutao1024/ShotFinder?style=social) &nbsp; [**Project**](https://github.com/yutao1024/ShotFinder)
+
+**Tao Yu**, Haopeng Jin, Hao Wang, Shenghua Chai, Yujia Yang, Junhao Gong, Jiaming Guo, Minghui Zhang, Xinlong Chen, Zhenghao Zhang, Yuxuan Zhou, Yufei Xiong, Shanbin Zhang, Jiabing Yang, Hongzhu Yi, Xinming Wang, Cheng Zhong, Xiao Ma, Zhang Zhang, Yan Huang, Liang Wang
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR</div><img src='images/Browseragent.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
