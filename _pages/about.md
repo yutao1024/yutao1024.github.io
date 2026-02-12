@@ -32,6 +32,18 @@ My research interests cover Multimodal Large Language Models.
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/RVMS-Bench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Beyond Closed-Pool Video Retrieval: A Benchmark and Agent Framework for Real-World Video Search and Moment Localization](http://arxiv.org/abs/2602.10159)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/yutao1024/RACLO?style=social) &nbsp; [**Project**](https://github.com/yutao1024/RACLO)
+
+**Tao Yu**, Yujia Yang, Haopeng Jin, Junhao Gong, Xinlong Chen, Yuxuan Zhou, Shanbin Zhang, Jiabing Yang, Xinming Wang, YiFan Zhang, Hongzhu Yi, Ping Nie, Kai Zou, Zhang Zhang, Yan Huang, Liang Wang, Yeshani, Ruiwen Tao, Jin Ma, Haijin Liang, Jinwen Luo
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/PaperX.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
