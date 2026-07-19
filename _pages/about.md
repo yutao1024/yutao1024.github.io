@@ -32,6 +32,42 @@ My research interests cover Multimodal Large Language Models.
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/EVID-Bench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[When Seeing Is Not Believing--A Benchmark for Search-Grounded Video Misinformation Detection](https://arxiv.org/abs/2606.04098)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/yutao1024/EVID-Bench?style=social) &nbsp; [**Project**](https://github.com/yutao1024/EVID-Bench)
+
+**Tao Yu**, Yujia Yang, Shenghua Chai, Zhang Jinshuai, Haopeng Jin, Hao Wang, Minghui Zhang, Zhongtian Luo, Yuchen Long, Xinlong Chen, Jiabing Yang, Zhaolu Kang, Yuxuan Zhou, Zhengyu Man, Xinming Wang, Hongzhu Yi, Zheqi He, Xi Yang, Yan Huang, Liang Wang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/EntCollabBench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Beyond the All-in-One Agent: Benchmarking Role-Specialized Multi-Agent Collaboration in Enterprise Workflows](https://arxiv.org/abs/2605.08761)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/yutao1024/EntCollabBench?style=social) &nbsp; [**Project**](https://github.com/yutao1024/EntCollabBench)
+
+**Tao Yu**, Hao Wang, Changyu Li, Shenghua Chai, Minghui Zhang, Zhongtian Luo, Yuxuan Zhou, Haopeng Jin, Zhaolu Kang, Jiabing Yang, YiFan Zhang, Xinming Wang, Hongzhu Yi, Zheqi He, Jing-Shu Zheng, Xi Yang, Yan Huang, Liang Wang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/Omni-Deepsearch.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Omni-DeepSearch: A Benchmark for Audio-Driven Omni-Modal Deep Search](https://arxiv.org/abs/2605.08762)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/yutao1024/Omni-DeepSearch?style=social) &nbsp; [**Project**](https://github.com/yutao1024/Omni-DeepSearch)
+
+**Tao Yu**, Yiming Ding, Shenghua Chai, Minghui Zhang, Zhongtian Luo, Xinming Wang, Xinlong Chen, Zhaolu Kang, Junhao Gong, Yuxuan Zhou, Haopeng Jin, Zhiqing Cui, Jiabing Yang, YiFan Zhang, Hongzhu Yi, Zheqi He, Xi Yang, Yan Huang, Liang Wang
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/RVMS-Bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
