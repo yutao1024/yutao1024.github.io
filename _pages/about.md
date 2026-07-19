@@ -94,6 +94,9 @@ My research interests cover Multimodal Large Language Models.
 
 ## Others
 
+- <br> **ACL 2026**, [Scaling Law for Multimodal Large Language Model Supervised Fine-Tuning](https://aclanthology.org/2026.acl-long.603/)      
+Yifan Zhang, **Tao Yu**, Feng Li, Chaoyou Fu, Yibo Hu, Kun Wang, Qingsong Wen, Zhang Zhang, Liang Wang, Rong Jin
+
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Yuxuan2003/CRDA?style=social) <br> **AAAI 2026**, [Improving Deepfake Detection with Reinforcement Learning-Based Adaptive Data Augmentation](https://arxiv.org/abs/2511.07051)      
 Yuxuan Zhou, **Tao Yu**, Wen Huang, Yuheng Zhang, Tao Dai, Shu-Tao Xia
 
