@@ -49,7 +49,7 @@ My research interests cover Multimodal Large Language Models.
 
 [Beyond the All-in-One Agent: Benchmarking Role-Specialized Multi-Agent Collaboration in Enterprise Workflows](https://arxiv.org/abs/2605.08761)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/yutao1024/EntCollabBench?style=flat&logo=github) &nbsp; [**Project**](https://github.com/yutao1024/EntCollabBench)
+![GitHub Repo stars](https://img.shields.io/github/stars/yutao1024/EntCollabBench?style=social) &nbsp; [**Project**](https://github.com/yutao1024/EntCollabBench)
 
 **Tao Yu**, Hao Wang, Changyu Li, Shenghua Chai, Minghui Zhang, Zhongtian Luo, Yuxuan Zhou, Haopeng Jin, Zhaolu Kang, Jiabing Yang, YiFan Zhang, Xinming Wang, Hongzhu Yi, Zheqi He, Jing-Shu Zheng, Xi Yang, Yan Huang, Liang Wang
 
