@@ -97,7 +97,7 @@ My research interests cover Multimodal Large Language Models.
 
 [ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search](https://arxiv.org/abs/2601.23232)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/yutao1024/ShotFinder?style=social) &nbsp; [**Project**](https://github.com/yutao1024/ShotFinder)
+![GitHub Repo stars](https://img.shields.io/github/stars/yutao1024/ShotFinder?style=social) &nbsp; [**Project**](https://github.com/yutao1024/ShotFinder) &nbsp; [**Post**](https://x.com/ZhihuFrontier/status/2089969262261866584?s=20)
 
 **Tao Yu**, Haopeng Jin, Hao Wang, Shenghua Chai, Yujia Yang, Junhao Gong, Jiaming Guo, Minghui Zhang, Xinlong Chen, Zhenghao Zhang, Yuxuan Zhou, Yufei Xiong, Shanbin Zhang, Jiabing Yang, Hongzhu Yi, Xinming Wang, Cheng Zhong, Xiao Ma, Zhang Zhang, Yan Huang, Liang Wang
 
@@ -121,7 +121,7 @@ My research interests cover Multimodal Large Language Models.
 
 [Aligning Multimodal LLM with Human Preference: A Survey](https://arxiv.org/abs/2503.14504)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models?style=social) &nbsp; [**Project**](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment)
+![GitHub Repo stars](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models?style=social) &nbsp; [**Project**](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment) &nbsp; [**Post**](https://mp.weixin.qq.com/s/8djZcfyl3v0N1eZRQBk0Yg)
 
 **Tao Yu**, Yi-Fan Zhang, Chaoyou Fu, Junkang Wu, Jinda Lu, Kun Wang, Xingyu Lu, Yunhang Shen, Guibin Zhang, Dingjie Song, Yibo Yan, Tianlong Xu, Qingsong Wen, Zhang Zhang, Yan Huang, Liang Wang, Tieniu Tan
 
