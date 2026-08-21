@@ -32,7 +32,7 @@ My research interests cover Multimodal Large Language Models.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/EVID-Bench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP Findings 2026</div><img src='images/EVID-Bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [When Seeing Is Not Believing--A Benchmark for Search-Grounded Video Misinformation Detection](https://arxiv.org/abs/2606.04098)
@@ -92,7 +92,7 @@ My research interests cover Multimodal Large Language Models.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ShotFinder.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP Findings 2026</div><img src='images/ShotFinder.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search](https://arxiv.org/abs/2601.23232)
