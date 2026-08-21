@@ -22,6 +22,7 @@ I’m a Ph.D. student at [New Laboratory of Pattern Recognition(NLPR)](http://ww
 My research interests cover Multimodal Large Language Models.
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 Two papers on Search Agent for Video Understanding (Misinformation Detection & Shot Retrieval) were accepted by EMNLP 2026 Findings!
 - *2026.01*: &nbsp;🎉🎉 One paper on Browser Agent were accepted by TMLR!
 - *2025.11*: &nbsp;🎉🎉 Two papers on Multi-View Clustering and Deepfake were accepted by AAAI 2026!
 - *2025.07*: &nbsp;🎉🎉 One technical report on Kwai Keye-VL was released!
@@ -32,7 +33,7 @@ My research interests cover Multimodal Large Language Models.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP Findings 2026</div><img src='images/EVID-Bench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Findings</div><img src='images/EVID-Bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [When Seeing Is Not Believing--A Benchmark for Search-Grounded Video Misinformation Detection](https://arxiv.org/abs/2606.04098)
@@ -92,7 +93,7 @@ My research interests cover Multimodal Large Language Models.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP Findings 2026</div><img src='images/ShotFinder.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Findings</div><img src='images/ShotFinder.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search](https://arxiv.org/abs/2601.23232)
