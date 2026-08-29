@@ -35,6 +35,18 @@ I believe impactful research comes from close collaboration across communities. 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/SCOPE-Router.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SCOPE-Router: Cost-Aware Open-Set VLM Routing for Execution-Oriented Tasks](https://arxiv.org/abs/2608.12127)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/yutao1024/SCOPE-Router?style=social) &nbsp; [**Project**](https://github.com/yutao1024/SCOPE-Router)
+
+**Tao Yu**, Yifei Qu, Zhiqing Cui, Pengfei Zhou, Zhongtian Luo, Yujia Yang, Shenghua Chai, Haopeng Jin, Zhenghao Zhang, Xinming Wang, Hongzhu Yi, Wangbo Zhao, Zhenglin Wan, Yan Huang, Yeshani, Jinwen Luo, Yang You
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Findings</div><img src='images/EVID-Bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
