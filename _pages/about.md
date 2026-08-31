@@ -146,7 +146,7 @@ I believe impactful research comes from close collaboration across communities. 
 ## Others
 
 - <br> **EMNLP 2026 Main**, [Why does Weak-OOD Help? A Further Step Towards Understanding Jailbreaking VLMs](https://arxiv.org/abs/2511.08367)      
-Yuxuan Zhou， Yuzhao Peng, Yang Bai, Kuofeng Gao, Yihao Zhang, Yechao Zhang, Xun Chen, **Tao Yu**, Tao Dai, Shu-Tao Xia
+Yuxuan Zhou, Yuzhao Peng, Yang Bai, Kuofeng Gao, Yihao Zhang, Yechao Zhang, Xun Chen, **Tao Yu**, Tao Dai, Shu-Tao Xia
 
 - <br> **ACL 2026 Main**, [Scaling Law for Multimodal Large Language Model Supervised Fine-Tuning](https://aclanthology.org/2026.acl-long.603/)      
 Yifan Zhang, **Tao Yu**, Feng Li, Chaoyou Fu, Yibo Hu, Kun Wang, Qingsong Wen, Zhang Zhang, Liang Wang, Rong Jin
