@@ -179,8 +179,8 @@ Hao Wen, Yuanchun Li, Guohong Liu, Shanhui Zhao, **Tao Yu**, Toby Jia-Jun Li, Sh
 - *2021.09 - 2025.06*, Bachelor in Computer Science and Technology (School of Computer Science and Technology, Harbin Institute of Technology), GPA: 93.79/100 (Ranking: 2/135)
 
 # 🤝 Collaborators
-- *2022 Cohort*, Jinshuai Zhang (HIT->THU), Hao Wang (HIT->USTC)
-- *2023 Cohort*, Yiming Ding (HIT->SJTU), Shenghua Chai (HIT->ZJU), Minghui Zhang (HIT->CASIA NLPR), Hao Wang (HIT->ICT VIPL), Zhongtian Luo (HIT->TencentxHIT), Yifei Qu (HIT->AILabxHIT)
+- *2022 Entry*, Jinshuai Zhang (HIT->THU), Hao Wang (HIT->USTC)
+- *2023 Entry*, Yiming Ding (HIT->SJTU), Shenghua Chai (HIT->ZJU), Minghui Zhang (HIT->CASIA NLPR), Hao Wang (HIT->ICT VIPL), Zhongtian Luo (HIT->TencentxHIT), Yifei Qu (HIT->AILabxHIT)
 
 # 💻 Internships
 - *2026.08 - Present*, Big Data Engineering Department, JD Explore Academy (JD.com), China.
