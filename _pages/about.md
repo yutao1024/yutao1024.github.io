@@ -178,6 +178,11 @@ Hao Wen, Yuanchun Li, Guohong Liu, Shanhui Zhao, **Tao Yu**, Toby Jia-Jun Li, Sh
 - *2025.09 - Current*, Ph.D. Student in Pattern Recognition and Intelligent Systems (Institute of Automation, Chinese Academy of Sciences)
 - *2021.09 - 2025.06*, Bachelor in Computer Science and Technology (School of Computer Science and Technology, Harbin Institute of Technology), GPA: 93.79/100 (Ranking: 2/135)
 
+# 🤝 Collaborator
+
+- *Class of 2026*, Jinshuai Zhang(HIT->THU), Hao Wang(HIT->USTC)
+- *Class of 2027*, Yiming Ding(HIT->SJTU), Shenghua Chai(HIT->ZJU), Minghui Zhang(HIT->CASIA NLPR), Hao Wang(HIT->ICT VIPL), Yifei Qu(HIT->AILab+HIT)
+
 # 💻 Internships
 - *2026.08 - Present*, Big Data Engineering Department, JD Explore Academy (JD.com), China.
 - *2026.03 - 2026.08*, Intelligent Evaluation Group, Beijing Academy of Artificial Intelligence (BAAI), China.
