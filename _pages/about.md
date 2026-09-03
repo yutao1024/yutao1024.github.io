@@ -181,7 +181,7 @@ Hao Wen, Yuanchun Li, Guohong Liu, Shanhui Zhao, **Tao Yu**, Toby Jia-Jun Li, Sh
 # 🤝 Collaborator
 
 - *Class of 2026*, Jinshuai Zhang(HIT->THU), Hao Wang(HIT->USTC)
-- *Class of 2027*, Yiming Ding(HIT->SJTU), Shenghua Chai(HIT->ZJU), Minghui Zhang(HIT->CASIA NLPR), Hao Wang(HIT->ICT VIPL), Yifei Qu(HIT->AILab+HIT)
+- *Class of 2027*, Yiming Ding(HIT->SJTU), Shenghua Chai(HIT->ZJU), Minghui Zhang(HIT->CASIA NLPR), Hao Wang(HIT->ICT VIPL), Zhongtian Luo(HIT->TencentxHIT), Yifei Qu(HIT->AILabxHIT)
 
 # 💻 Internships
 - *2026.08 - Present*, Big Data Engineering Department, JD Explore Academy (JD.com), China.
