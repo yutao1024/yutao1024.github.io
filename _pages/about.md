@@ -110,7 +110,7 @@ I believe impactful research comes from close collaboration across communities. 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Findings</div><img src='images/ShotFinder.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search](https://arxiv.org/abs/2601.23232)
+[ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search](https://arxiv.org/abs/2601.23232v4)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/yutao1024/ShotFinder?style=social) &nbsp; [**Project**](https://github.com/yutao1024/ShotFinder) &nbsp; [**Post**](https://x.com/ZhihuFrontier/status/2089969262261866584?s=20)
 
