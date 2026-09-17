@@ -114,7 +114,7 @@ I believe impactful research comes from close collaboration across communities. 
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/yutao1024/ShotFinder?style=social) &nbsp; [**Project**](https://github.com/yutao1024/ShotFinder) &nbsp; [**Post**](https://x.com/ZhihuFrontier/status/2089969262261866584?s=20)
 
-**Tao Yu**, Haopeng Jin, Hao Wang, Shenghua Chai, Yujia Yang, Junhao Gong, Jiaming Guo, Minghui Zhang, Xinlong Chen, Zhenghao Zhang, Yuxuan Zhou, Yufei Xiong, Shanbin Zhang, Jiabing Yang, Hongzhu Yi, Xinming Wang, Cheng Zhong, Xiao Ma, Zhang Zhang, Yan Huang, Liang Wang
+**Tao Yu**, Haopeng Jin, Hao Wang, Shenghua Chai, Yujia Yang, Junhao Gong, Jiaming Guo, Minghui Zhang, Xinlong Chen, Zhenghao Zhang, Yuxuan Zhou, Yufei Xiong, Shanbin Zhang, Jiabing Yang, YiFan Zhang, Hongzhu Yi, Xinming Wang, Cheng Zhong, Xiao Ma, Zhang Zhang, Yan Huang, Liang Wang
 
 </div>
 </div>
