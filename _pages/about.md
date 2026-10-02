@@ -43,30 +43,6 @@ I believe impactful research comes from close collaboration across communities. 
 
 ## Search & Reasoning Agents
 
-<div class="paper-box" style="padding-top: 20px;"><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/OPIS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[OPIS: An Input-Grounded Benchmark for Multi-Object Memory in Video World Models](https://arxiv.org/abs/2609.35052)
-
-![GitHub Repo stars](https://img.shields.io/github/stars/SSStarain/OPIS?style=social) &nbsp; [**Project**](https://github.com/SSStarain/OPIS)
-
-Hao Wang, **Tao Yu\*,†**, Liuzhou Zhang, HeXin Wang, Haopeng Jin, Yuxuan Zhou, Xinming Wang, Hongzhu Yi, Xinye Li, Yuanlei Wang, Ping Nie, Yan Huang, Yuxuan Zhang, Pengfei Zhou, Yanyan Zou, Wei Yang
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/SCOPE-Router.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SCOPE-Router: Cost-Aware Open-Set VLM Routing for Execution-Oriented Tasks](https://arxiv.org/abs/2608.12127)
-
-![GitHub Repo stars](https://img.shields.io/github/stars/yutao1024/SCOPE-Router?style=social) &nbsp; [**Project**](https://github.com/yutao1024/SCOPE-Router)
-
-**Tao Yu**, Yifei Qu, Zhiqing Cui, Pengfei Zhou, Zhongtian Luo, Yujia Yang, Shenghua Chai, Haopeng Jin, Zhenghao Zhang, Xinming Wang, Hongzhu Yi, Wangbo Zhao, Zhenglin Wan, Yan Huang, Yeshani, Jinwen Luo, Yang You
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Findings</div><img src='images/EVID-Bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -75,18 +51,6 @@ Hao Wang, **Tao Yu\*,†**, Liuzhou Zhang, HeXin Wang, Haopeng Jin, Yuxuan Zhou,
 ![GitHub Repo stars](https://img.shields.io/github/stars/yutao1024/EVID-Bench?style=social) &nbsp; [**Project**](https://github.com/yutao1024/EVID-Bench)
 
 **Tao Yu**, Yujia Yang, Shenghua Chai, Zhang Jinshuai, Haopeng Jin, Hao Wang, Minghui Zhang, Zhongtian Luo, Yuchen Long, Xinlong Chen, Jiabing Yang, Zhaolu Kang, Yuxuan Zhou, Zhengyu Man, Xinming Wang, Hongzhu Yi, Zheqi He, Xi Yang, Yan Huang, Liang Wang
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/EntCollabBench.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Beyond the All-in-One Agent: Benchmarking Role-Specialized Multi-Agent Collaboration in Enterprise Workflows](https://arxiv.org/abs/2605.08761)
-
-![GitHub Repo stars](https://img.shields.io/github/stars/yutao1024/EntCollabBench?style=social) &nbsp; [**Project**](https://github.com/yutao1024/EntCollabBench)
-
-**Tao Yu**, Hao Wang, Changyu Li, Shenghua Chai, Minghui Zhang, Zhongtian Luo, Yuxuan Zhou, Haopeng Jin, Zhaolu Kang, Jiabing Yang, YiFan Zhang, Xinming Wang, Hongzhu Yi, Zheqi He, Jing-Shu Zheng, Xi Yang, Yan Huang, Liang Wang
 
 </div>
 </div>
@@ -115,18 +79,6 @@ Hao Wang, **Tao Yu\*,†**, Liuzhou Zhang, HeXin Wang, Haopeng Jin, Yuxuan Zhou,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/PaperX.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[PaperX: A Unified Framework for Multimodal Academic Presentation Generation with Scholar DAG](https://arxiv.org/abs/2602.03866)
-
-![GitHub Repo stars](https://img.shields.io/github/stars/yutao1024/PaperX?style=social) &nbsp; [**Project**](https://github.com/yutao1024/PaperX)
-
-**Tao Yu**, Minghui Zhang, Zhiqing Cui, Hao Wang, Zhongtian Luo, Shenghua Chai, Junhao Gong, Yuzhao Peng, Yuxuan Zhou, Yujia Yang, Zhenghao Zhang, Haopeng Jin, Xinming Wang, Yufei Xiong, Jiabing Yang, Jiahao Yuan, Hanqing Wang, Hongzhu Yi, YiFan Zhang, Yan Huang, Liang Wang
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Findings</div><img src='images/ShotFinder.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -147,6 +99,58 @@ Hao Wang, **Tao Yu\*,†**, Liuzhou Zhang, HeXin Wang, Haopeng Jin, Yuxuan Zhou,
 ![GitHub Repo stars](https://img.shields.io/github/stars/TIGER-AI-Lab/BrowserAgent?style=social) &nbsp; [**Project**](https://github.com/TIGER-AI-Lab/BrowserAgent)
 
 **Tao Yu**, Zhengbo Zhang, Zhiheng Lyu, Junhao Gong, Hongzhu Yi, Xinming Wang, Yuxuan Zhou, Jiabing Yang, Ping Nie, Yan Huang, Wenhu Chen
+
+</div>
+</div>
+
+## Agent Systems & Workflows
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/SCOPE-Router.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SCOPE-Router: Cost-Aware Open-Set VLM Routing for Execution-Oriented Tasks](https://arxiv.org/abs/2608.12127)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/yutao1024/SCOPE-Router?style=social) &nbsp; [**Project**](https://github.com/yutao1024/SCOPE-Router)
+
+**Tao Yu**, Yifei Qu, Zhiqing Cui, Pengfei Zhou, Zhongtian Luo, Yujia Yang, Shenghua Chai, Haopeng Jin, Zhenghao Zhang, Xinming Wang, Hongzhu Yi, Wangbo Zhao, Zhenglin Wan, Yan Huang, Yeshani, Jinwen Luo, Yang You
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/EntCollabBench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Beyond the All-in-One Agent: Benchmarking Role-Specialized Multi-Agent Collaboration in Enterprise Workflows](https://arxiv.org/abs/2605.08761)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/yutao1024/EntCollabBench?style=social) &nbsp; [**Project**](https://github.com/yutao1024/EntCollabBench)
+
+**Tao Yu**, Hao Wang, Changyu Li, Shenghua Chai, Minghui Zhang, Zhongtian Luo, Yuxuan Zhou, Haopeng Jin, Zhaolu Kang, Jiabing Yang, YiFan Zhang, Xinming Wang, Hongzhu Yi, Zheqi He, Jing-Shu Zheng, Xi Yang, Yan Huang, Liang Wang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/PaperX.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PaperX: A Unified Framework for Multimodal Academic Presentation Generation with Scholar DAG](https://arxiv.org/abs/2602.03866)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/yutao1024/PaperX?style=social) &nbsp; [**Project**](https://github.com/yutao1024/PaperX)
+
+**Tao Yu**, Minghui Zhang, Zhiqing Cui, Hao Wang, Zhongtian Luo, Shenghua Chai, Junhao Gong, Yuzhao Peng, Yuxuan Zhou, Yujia Yang, Zhenghao Zhang, Haopeng Jin, Xinming Wang, Yufei Xiong, Jiabing Yang, Jiahao Yuan, Hanqing Wang, Hongzhu Yi, YiFan Zhang, Yan Huang, Liang Wang
+
+</div>
+</div>
+
+## Multimodal Models
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/OPIS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OPIS: An Input-Grounded Benchmark for Multi-Object Memory in Video World Models](https://arxiv.org/abs/2609.35052)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/SSStarain/OPIS?style=social) &nbsp; [**Project**](https://github.com/SSStarain/OPIS)
+
+Hao Wang, **Tao Yu\*,†**, Liuzhou Zhang, HeXin Wang, Haopeng Jin, Yuxuan Zhou, Xinming Wang, Hongzhu Yi, Xinye Li, Yuanlei Wang, Ping Nie, Yan Huang, Yuxuan Zhang, Pengfei Zhou, Yanyan Zou, Wei Yang
 
 </div>
 </div>
