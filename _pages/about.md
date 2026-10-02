@@ -41,7 +41,7 @@ I believe impactful research comes from close collaboration across communities. 
   † Corresponding author
 </p>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/SCOPE-Router.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/OPIS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OPIS: An Input-Grounded Benchmark for Multi-Object Memory in Video World Models](https://arxiv.org/abs/2609.35052)
