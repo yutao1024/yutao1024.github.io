@@ -41,6 +41,8 @@ I believe impactful research comes from close collaboration across communities. 
   † Corresponding author
 </p>
 
+## Search & Reasoning Agents
+
 <div class="paper-box" style="padding-top: 20px;"><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/OPIS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
