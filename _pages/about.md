@@ -35,6 +35,24 @@ I believe impactful research comes from close collaboration across communities. 
 
 # 📝 Publications 
 
+<p style="font-size: 0.9em; color: #666; margin: 0 0 18px;">
+  <sup>†</sup> Equal contribution
+  &nbsp;·&nbsp;
+  <sup>*</sup> Corresponding author
+</p>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/SCOPE-Router.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OPIS: An Input-Grounded Benchmark for Multi-Object Memory in Video World Models](https://arxiv.org/abs/2609.35052)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/SSStarain/OPIS?style=social) &nbsp; [**Project**](https://github.com/SSStarain/OPIS)
+
+Hao Wang, **Tao Yu**<sup>†,*</sup>, Liuzhou Zhang, HeXin Wang, Haopeng Jin, Yuxuan Zhou, Xinming Wang, Hongzhu Yi, Xinye Li, Yuanlei Wang, Ping Nie, Yan Huang, Yuxuan Zhang, Pengfei Zhou, Yanyan Zou, Wei Yang
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/SCOPE-Router.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
