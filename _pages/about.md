@@ -50,7 +50,7 @@ I believe impactful research comes from close collaboration across communities. 
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/yutao1024/EVID-Bench?style=social) &nbsp; [**Project**](https://github.com/yutao1024/EVID-Bench)
 
-**Tao Yu**, Yujia Yang, Shenghua Chai, Zhang Jinshuai, Haopeng Jin, Hao Wang, Minghui Zhang, Zhongtian Luo, Yuchen Long, Xinlong Chen, Jiabing Yang, Zhaolu Kang, Yuxuan Zhou, Zhengyu Man, Xinming Wang, Hongzhu Yi, Zheqi He, Xi Yang, Yan Huang, Liang Wang
+**Tao Yu**, Yujia Yang, Shenghua Chai, Jinshuai Zhang, Haopeng Jin, Hao Wang, Minghui Zhang, Zhongtian Luo, Yuchen Long, Xinlong Chen, Jiabing Yang, Zhaolu Kang, Yuxuan Zhou, Zhengyu Man, Xinming Wang, Hongzhu Yi, Zheqi He, Xi Yang, Yan Huang, Liang Wang
 
 </div>
 </div>
