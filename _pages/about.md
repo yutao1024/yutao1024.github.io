@@ -105,6 +105,18 @@ I believe impactful research comes from close collaboration across communities. 
 
 ## Agent Systems & Workflows
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/RSEClaw.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[When Non-Adversarial Noise Hurts Learning: Benchmarking Skill Self-Evolution in Agents](https://arxiv.org/abs/2610.19910)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/yutao1024/RSEClaw?style=social) &nbsp; [**Project**](https://github.com/yutao1024/RSEClaw)
+
+**Tao Yu**, Zhongtian Luo, Yuchen Long, Yiheng Lu, Yuxuan Zhou, Yanpei Gong, Siyi Cao, Yuqing Wu, Haopeng Jin, Zhenghao Zhang, Yujia Yang, Jingmin Zhu, Yunyun Hou, Xinming Wang, Hongzhu Yi, Jiachen Liu, Sirui Wang, Nan Duan, Yan Huang, Liang Wang, Tianjin Huang, Yanyan Zou
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/SCOPE-Router.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
