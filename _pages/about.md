@@ -181,6 +181,9 @@ Hao Wang, **Tao Yu\*,†**, Liuzhou Zhang, HeXin Wang, Haopeng Jin, Yuxuan Zhou,
 
 ## Others
 
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Sunbeam23333/HIMMEL?style=social) <br> **NeurIPS 2026**, [HIMMEL: Hierarchical Interleaved Multi-stream Motion Encoding for Long Video Understanding](https://arxiv.org/abs/2605.08158)      
+Haopeng Jin, Wenlong Zhao, **Tao Yu**, Tiankun Yang, Zhenyu Guan, ShiQuan Dong, Yujia Yang, Chubin Chen, Hongzhu Yi, Jinwen Luo
+
 - <br> **EMNLP 2026 Main**, [Why does Weak-OOD Help? A Further Step Towards Understanding Jailbreaking VLMs](https://arxiv.org/abs/2511.08367)      
 Yuxuan Zhou, Yuzhao Peng, Yang Bai, Kuofeng Gao, Yihao Zhang, Yechao Zhang, Xun Chen, **Tao Yu**, Tao Dai, Shu-Tao Xia
 
